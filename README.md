@@ -21,6 +21,7 @@ const skills = {
 ```
 ## 🎯 Professional Goals
 - Building effective tech solutions
+- Connect with people of all kinds
 - Continuous learning, skill development in latest technologies and be a better person
 
 ## 📨 Connect With Me
