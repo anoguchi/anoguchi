@@ -11,7 +11,7 @@
 ## 🎯 Mission
 Solve problems through code.
 
-## 🛠️ Technical Stack
+## ⌨️ Technical Stack
 ```javascript
 const skills = {
     languages: ['Javascript', 'TypeScript', 'Python', 'C#', 'Java'],
